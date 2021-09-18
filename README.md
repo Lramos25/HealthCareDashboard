@@ -1,7 +1,14 @@
 # HealthCareDashboard
-Fictional Data used for use in a data analysis project in the health care sector.
 
-Using a data set from Hair Salon No shows and a data set on medical costs. Worked with both data sets to create a scenario for the health care sector. 
+Ways to improve are the first and last thing to think about when working on a project. Even as I go through a process I am always tring to look at how things can be better. This mindset has allowed me to see ways things can be improved or to find that things are good as they are. With this in mind, here are some improvments to this project that could be used in the future:
+
+  1) Include a page with a more detailed drill down (e.g.Remburment rate, insurance verification, return patients)
+  2) A graphic detailing the number of clients within X amount of days until delinguent on payments - then broken down by department
+  3) Build scorecards for preformance measures (First idea that comes to mind is for clients based on how early they check in, pay history over a specified time, denied claims)
+
+Fictional Data used for use in a data analysis project in the health care sector. I created just under 1400 "patients" then referenced various data sets from Kaggle to build out information on their appointments and payments.  
+
+Using a data set from Hair Salon No shows, medical costs, and medical appointments. Worked with the data sets to create a scenario for the health care sector. This gave a situation as if the data needed was not readily on hand. The collection required looking at various data sources and deciding if those helpped answer possible questions. Consolidation and orginizing the data was very detailed oriented. This required verifing fomatting or data, understanding what each part of the data meant to the entire data set, merging data between the reports that represent simular data points. 
 
 Cleaning data - This required removing empty spaces, formatting data, removing duplicates primary keys and validating authenticity of data.
 
@@ -25,4 +32,10 @@ The final slide goes into payments. This shows payments received overall, paymen
 
 ![Payments](https://user-images.githubusercontent.com/10605443/133866070-f843c6ba-b0a7-4c91-8919-226e6d46b13c.PNG)
 
-
+After posting this, more things came to mind to make this better. 
+Here are the current improvments:
+  1) Include a page with a more detailed drill down (e.g.Remburment rate, insurance verification, return patients)
+  2) A graphic detailing the number of clients within X amount of days until delinguent on payments - then broken down by department
+  3) Build scorecards for preformance measures (First idea that comes to mind is for clients based on how early they check in, pay history over a specified time, denied claims)
+  4) Formatting edits (fonts, text size, layout need to be scrubbed and fixed to match from one page to the next)
+  5) Once the improvments aove are made, a layout can be planned out. This will allow each page to flow in a simular manner to the page before. This will make it easier to focus on the data instead of looking for what is needed.
