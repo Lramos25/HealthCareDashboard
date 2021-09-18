@@ -22,3 +22,7 @@ The Second view give a more detailed breakdown of the demographics of patients a
 
 
 The final slide goes into payments. This shows payments received overall, payments received with the target at payments that could have been received without no shows (No Shows do pay a $35 fee that is factored into payments made). A time line is shown for payments based on appointments. The totals show the amount made from the appointments that month. For each department the total amount and percentage are shown which can show any possible issues that could use a deep dive. This entire data set assumes every payment is current and has no delinquencies. Understanding that this will more than likely not be the case in a real scenario, I have the payments by department made in a manner that could allow it to show amount made and amount delinquent.  
+
+![Payments](https://user-images.githubusercontent.com/10605443/133866070-f843c6ba-b0a7-4c91-8919-226e6d46b13c.PNG)
+
+
