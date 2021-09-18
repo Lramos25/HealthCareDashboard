@@ -22,7 +22,7 @@ Presentation - The first view created is made with he intent to show the most im
 ![Main page view](https://user-images.githubusercontent.com/10605443/133864681-0007d661-f3e2-4ddf-a24d-2c3631c28a2d.PNG)
 
 
-The Second view give a more detailed breakdown of the demographics of patients and appointments. The emphasis is placed on the appointments and No Shows for each department. With each graph working in succession from low level to high level view. This paints a good story of each department’s matrix. The overall no show rates show how much can be improved in this area.
+The Second view give a more detailed breakdown of the demographics of patients and appointments. The emphasis is placed on the appointments and No Shows for each department. With each graph working in succession from low level to high level view. This paints a good story of each department’s matrix. The overall no show rates show how much can be improved in this area. In a real setting, there would be too many departments for this design to work in a pie chart. A better technique would be to use KPIs and show the trend from the previous month/quarter.
 
 
 ![Demographic](https://user-images.githubusercontent.com/10605443/133866053-3383dd92-000a-4bdf-9fd6-c3e9e8061760.PNG)
