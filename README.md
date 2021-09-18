@@ -15,9 +15,10 @@ Presentation - The first view created is made with he intent to show the most im
 ![Main page view](https://user-images.githubusercontent.com/10605443/133864681-0007d661-f3e2-4ddf-a24d-2c3631c28a2d.PNG)
 
 
-
 The Second view give a more detailed breakdown of the demographics of patients and appointments. The emphasis is placed on the appointments and No Shows for each department. With each graph working in succession from low level to high level view. This paints a good story of each department’s matrix. The overall no show rates show how much can be improved in this area.
 
+
+![Demographic](https://user-images.githubusercontent.com/10605443/133866053-3383dd92-000a-4bdf-9fd6-c3e9e8061760.PNG)
 
 
 The final slide goes into payments. This shows payments received overall, payments received with the target at payments that could have been received without no shows (No Shows do pay a $35 fee that is factored into payments made). A time line is shown for payments based on appointments. The totals show the amount made from the appointments that month. For each department the total amount and percentage are shown which can show any possible issues that could use a deep dive. This entire data set assumes every payment is current and has no delinquencies. Understanding that this will more than likely not be the case in a real scenario, I have the payments by department made in a manner that could allow it to show amount made and amount delinquent.  
