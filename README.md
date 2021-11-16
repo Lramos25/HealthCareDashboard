@@ -8,7 +8,7 @@ Ways to improve are the first and last thing to think about when working on a pr
 
 Fictional Data used for use in a data analysis project in the health care sector. I created just under 1400 "patients" then referenced various data sets from Kaggle to build out information on their appointments and payments.  
 
-Using a data set from Hair Salon No shows, medical costs, and medical appointments. Worked with the data sets to create a scenario for the health care sector. This gave a situation as if the data needed was not readily on hand. The collection required looking at various data sources and deciding if those helpped answer possible questions. Consolidation and orginizing the data was very detailed oriented. This required verifing fomatting or data, understanding what each part of the data meant to the entire data set, merging data between the reports that represent simular data points. 
+I created this fictional data set from Hair Salon No shows, medical costs, and medical appointments. Worked with the data sets to create a scenario for the health care sector. This gave a situation as if the data needed was not readily on hand. The collection required looking at various data sources and deciding if those helpped answer possible questions. Consolidation and orginizing the data was very detailed oriented. This required verifing fomatting or data, understanding what each part of the data meant to the entire data set, merging data between the reports that represent simular data points. 
 
 Cleaning data - This required removing empty spaces, formatting data, removing duplicates primary keys and validating authenticity of data.
 
