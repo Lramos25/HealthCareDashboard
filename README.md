@@ -19,7 +19,7 @@ Analysis Data - I am leaning on the visuals to present the overall thought proce
 Presentation - The first view created is made with he intent to show the most important data up front in an easy to digest manner. This high view approach is designed to convey the most inportant data in a single glance. From these first slides, it is easy to see the average wait times, time spent with patients, total payent amounts, and a timeline for the year.
 
 
-![Page1](https://user-images.githubusercontent.com/10605443/141979680-10ea03e1-68a9-43bc-bf66-4579304b98dc.JPG)
+![Capture](https://user-images.githubusercontent.com/10605443/147865158-98a2b840-350b-418b-a5d2-113b1372cfe0.JPG)
 
 
 The Second view give a more detailed breakdown of the demographics of patients and appointments. The emphasis is placed on the appointments and No Shows for each department. With each graph working in succession from low level to high level view. This paints a good story of each department’s matrix. The overall no show rates show how much can be improved in this area. In a real setting, there would be too many departments for this design to work in a pie chart. A better technique would be to use KPIs and show the trend from the previous month/quarter.
